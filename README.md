@@ -13,7 +13,7 @@ VBA (for automation and task scheduling)
 Python (data wrangling, basic analytics, reporting)
 Data Visualization (Power BI or Excel Charts)
 Information Management and Data Quality
-Business Operations Reporting
+Business Operations Reporting.
 <!---
 Asemahlezide22/Asemahlezide22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
