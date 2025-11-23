@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Asemahle Zide 👋</h1>
 
 <p align="center">
-  <em>Data & Reporting Intern • Junior Data Analyst (Aspiring)</em><br/>
+  <em>Junior Data Specialist • Junior Data Analyst </em><br/>
   📍 South Africa • 🌐 <a href="https://www.linkedin.com/in/asemahle-zide-201063215/">LinkedIn</a>
 </p>
 <p align="center">
