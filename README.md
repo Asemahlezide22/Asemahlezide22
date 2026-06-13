@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Asemahle Zide 👋</h1>
 
 <p align="center">
-  <em>Junior Data Specialist • Junior Data Analyst </em><br/>
+  <em>Junior Data Specialist </em><br/>
   📍 South Africa • 🌐 <a href="https://www.linkedin.com/in/asemahle-zide-201063215/">LinkedIn</a>
 </p>
 <p align="center">
@@ -21,7 +21,7 @@ Hi, I’m **Asemahle** a curious and passionate data explorer who enjoys transfo
 ---
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** SQL | Python (Beginner) | HTML | CSS
+- **Languages:** SQL | Python| HTML | CSS
 - **Tools:** Power BI | Excel | VBA | Git | Morningstar
 - **Certifications:** CompTIA A+ | CompTIA N+ | SQL | HTML & CSS
 - **Soft Skills:** Analytical thinking | Detail-oriented | Team collaboration
